@@ -1,1 +1,0 @@
-<?php /**PATH C:\xampp\htdocs\ProyectoResidencia\resources\views/coordinacion/validacion.blade.php ENDPATH**/ ?>
