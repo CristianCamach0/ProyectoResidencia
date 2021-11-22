@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\ProyectoResidencia\resources\views/revisor/proyectos.blade.php ENDPATH**/ ?>
